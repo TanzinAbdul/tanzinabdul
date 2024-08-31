@@ -1,6 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=bold&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=ML+Researcher;Python+Expert;Research+Enthusiast;Specialized+in+Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=500&color=00B700&center=true&vCenter=true&width=500&lines=👋+Hi,+I'm+Tanzin;ML+Researcher;Python+Expert;Research+Enthusiast;Specialized+in+ML" alt="Typing SVG" />
 </h1>
+
+
+
 
 
 
