@@ -19,7 +19,7 @@
 ---
 
 <h2>
-<img src="https://cdn.simpleicons.org/openai" width="22">
+<img src="https://cdn.simpleicons.org/google" width="22">
  About Me
 </h2>
 
