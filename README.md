@@ -1,41 +1,69 @@
 <div align="center">
 
-# 👋 Hi, I'm Mohammed Abdul Al Arafat Tanzin
+# Mohammed Abdul Al Arafat Tanzin
 
-### AI Researcher • Machine Learning • Deep Learning • Computer Vision • NLP
+### AI Researcher • Machine Learning • Deep Learning • Computer Vision • Natural Language Processing
 
-*Exploring AI from first principles and building intelligent systems that solve real-world problems.*
+*Exploring Artificial Intelligence from first principles through research, mathematics, and practical implementation.*
 
 <br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=tanzinabdul\&style=for-the-badge)](https://github.com/tanzinabdul)
-[![GitHub followers](https://img.shields.io/github/followers/tanzinabdul?style=for-the-badge)](https://github.com/tanzinabdul?tab=followers)
+<a href="https://github.com/tanzinabdul?tab=followers">
+<img src="https://img.shields.io/github/followers/tanzinabdul?style=for-the-badge&logo=github&label=Followers"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=tanzinabdul&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+<h2>
+<img src="https://cdn.simpleicons.org/openai" width="22">
+ About Me
+</h2>
 
-* 🔬 AI Researcher with interests in **Machine Learning, Deep Learning, NLP, Computer Vision, and Generative AI**
-* 🧠 Currently exploring **Foundation Models, Transformers, World Models, Self-Supervised Learning, and Multimodal AI**
-* 💻 Building AI applications using **Python, PyTorch, TensorFlow, OpenCV, and Django**
-* 📖 I enjoy transforming research papers into practical implementations and educational notebooks
-* 🌱 Always learning something new in Artificial Intelligence
+I am a Computer Science graduate and AI researcher passionate about understanding how intelligent systems learn, reason, and perceive the world. My work spans **Machine Learning**, **Deep Learning**, **Computer Vision**, **Natural Language Processing**, and **Generative AI**, with a strong emphasis on bridging theoretical foundations and practical implementations.
+
+I enjoy reproducing research papers, documenting mathematical concepts, and building open-source projects that make advanced AI more accessible.
 
 ---
 
-## 🛠 Tech Stack
+<h2>
+<img src="https://cdn.simpleicons.org/python" width="22">
+ Tech Stack
+</h2>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,django,flask,fastapi,git,github,docker,mysql,sqlite,vscode&perline=7"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,django,flask,fastapi,docker,git,github,mysql,sqlite,vscode&perline=7"/>
 
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+<h2>
+<img src="https://cdn.simpleicons.org/openaccess" width="22">
+ Research Interests
+</h2>
+
+* Foundation Models
+* Large Language Models (LLMs)
+* Self-Supervised Learning
+* Transformer Architectures
+* Vision-Language Models (VLMs)
+* Computer Vision
+* Medical AI
+* Multimodal Learning
+* Explainable AI
+* World Models & Agentic AI
+
+---
+
+<h2>
+<img src="https://cdn.simpleicons.org/github" width="22">
+ GitHub Analytics
+</h2>
 
 <p align="center">
 
@@ -53,22 +81,20 @@
 
 ---
 
-## 📚 Current Research Interests
+<h2>
+<img src="https://cdn.simpleicons.org/bookstack" width="22">
+ Current Focus
+</h2>
 
-* Foundation Models
-* Large Language Models (LLMs)
-* Vision-Language Models (VLMs)
-* Self-Supervised Learning
-* Computer Vision
-* Medical AI
-* Multimodal Learning
-* Explainable AI
-* World Models & Agentic AI
+* Reading and reproducing state-of-the-art AI research
+* Building educational notebooks on Generative AI and Foundation Models
+* Developing explainable and reproducible machine learning systems
+* Exploring the future of World Models and Agentic AI
 
 ---
 
-## 🌟 Featured Repositories
+<div align="center">
 
-> I enjoy building projects that bridge **research, mathematics, and implementation**, making advanced AI concepts easier to understand and reproduce.
+*"The best way to understand intelligence is to build it."*
 
-⭐ Feel free to explore my repositories and connect if you'd like to collaborate on AI research or open-source projects.
+</div>
